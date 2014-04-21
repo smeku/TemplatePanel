@@ -63,16 +63,16 @@ body {
  */
 
 .main {
-  padding: 20px;
+  padding: 0px;
 }
-@media (min-width: 768px) {
+@media (min-width: 788px) {
   .main {
-    padding-left: 40px;
-    pading-right: 40px;
+    padding-left: 0px;
+    padding-right: 0px;
   }
 }
-.main .page-header {
-  margin-top: 0;
+.main .page-page {
+  margin: 30px;
 }
 
 
